@@ -25,3 +25,17 @@ Service Meshes: Analyze the role of HTTP/2 in service meshes (e.g., Istio) and h
 Cloud-Native Architecture with HTTP/3: Investigate how cloud platforms (e.g., AWS, GCP) are adapting their web services to support HTTP/3 and QUIC, and how this impacts cloud-native architecture in terms of security and performance.
 Edge Computing and HTTP/3: Look into how HTTP/3 optimizes performance in edge computing scenarios, where low-latency connections and reduced round-trips are critical for fast, reliable data transmission.
 These topics should align well with your lecture material and provide additional depth to your understanding of modern web architectures and the evolution of HTTP.
+
+Adjusted:
+
+Memory updated
+Since you've revised Security+ theory and completed HTB Tier 0, I’d recommend focusing on more in-depth topics that bridge both security and web architecture/HTTP evolution during your lecture. Here’s how you could approach it:
+
+Web Architecture
+Load Balancing & Scalability: How modern web architecture supports scalability using load balancers (Layer 4 & Layer 7) and what security considerations are involved (DDoS protection, SSL offloading).
+Microservices Architecture: Dive into how microservices are designed for modern applications, and research potential security risks (e.g., container security, service discovery vulnerabilities).
+Content Delivery Networks (CDNs): Research how CDNs improve performance and security through caching, SSL/TLS, and mitigating DDoS attacks.
+HTTP Evolution
+HTTP/2 & HTTP/3 Security Features: Learn about improvements from HTTP/1.1, especially around security and performance, like header compression, multiplexing, and QUIC protocol security enhancements.
+Secure HTTP (HTTPS) Evolution: Study the progression from early SSL/TLS to modern TLS 1.3. Explore how handshake times, encryption protocols, and forward secrecy have evolved to enhance security.
+OAuth & OpenID: These protocols play a crucial role in securing HTTP-based applications. Consider researching how they function and the potential weaknesses in their implementations (e.g., phishing attacks on OAuth tokens).
